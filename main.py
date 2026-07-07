@@ -10,3 +10,21 @@ age = 30
 print (name)
 print (country)
 print (age)
+print ("Hello")
+print ("Python")
+print ("Masoud ")
+print (30)
+print ("AI Atuomation")
+first_name = "Masoud"
+last_name ="Noorzai"
+country ="Afghanistan"
+city ="kabul"
+job ="Hairdresser"
+age ="30"
+print (first_name)
+print (last_name)
+print (country)
+print (city)
+print (job)
+print (age)
+
