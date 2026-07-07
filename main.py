@@ -41,5 +41,9 @@ print (a+b)
 print (a-b)
 print (a*b)
 print (a/b)
+print (21 // 4)
+print (21 % 4)
+print (2**3)
+print (5 ** 2)
 
 
