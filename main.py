@@ -27,4 +27,12 @@ print (country)
 print (city)
 print (job)
 print (age)
+name ='Masoud'
+age = 30
+height = 1.72
+student = True
+print (type(name))
+print (type(age))
+print (type(height))
+print (type(student))
 
