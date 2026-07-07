@@ -35,4 +35,11 @@ print (type(name))
 print (type(age))
 print (type(height))
 print (type(student))
+a = 20
+b = 4
+print (a+b)
+print (a-b)
+print (a*b)
+print (a/b)
+
 
