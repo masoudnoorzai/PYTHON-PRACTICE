@@ -1,0 +1,7 @@
+name = input("What is your name?")
+country = input("Wich country do you live in?")
+age = int (input("How old are you?"))
+print ("Name:",name)
+print ("Country:", country)
+print ("Age:",age)
+print ("Next year you will be ", age+1)
