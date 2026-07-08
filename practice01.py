@@ -16,11 +16,3 @@ print (10/5)
 print (10//3)
 print (10%3)
 print (2**3)
-first_name="Maoud"
-last_name="Noorzai"
-country="Afghanistan"
-age=27
-print ("Masoud")
-print ("Noorzai")
-print ("Afghanistan")
-print (27)
