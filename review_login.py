@@ -4,5 +4,5 @@ if age >= 18 and has_card == "yes" :
     print("ورود مجاز است")
 else :
     print("ورود مجاز نیست")
-    
+
 
